@@ -6,4 +6,4 @@
 
 ## 🔧 Dependencies:
 
--  google_fonts: ^1.2.0
+-  google_fonts: ^3.0.1
